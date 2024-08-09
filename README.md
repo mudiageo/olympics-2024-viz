@@ -1,3 +1,3 @@
-#Olympics 2024 Vuz
+#Olympics 2024 Vuz#
 
-	Built with SvelteKit, TailwindCSS and Chart.js
+```Built with SvelteKit, TailwindCSS and Chart.js
